@@ -1,0 +1,14 @@
+*{
+    background-color: grey;
+    text-align: center;
+}
+button{
+    background-color: white;
+    font-size: large;
+}
+input{
+    background-color: white;
+}
+#results{
+    margin: 15px;
+}
